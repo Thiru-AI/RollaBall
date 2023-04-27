@@ -97,7 +97,7 @@ public class Proj03: MonoBehaviour
 ~~~
 
 ## Output:
-![](1.png)
+![](a.png)
 
 ## Result:
 Thus, The 3D application for Roll the Ball in unity is developed successfully.
