@@ -44,10 +44,11 @@ Copy the PlayerController and drag to Script folder
 Double click the PlayerController file and type the coding
 
 ## Program:
-DEVELOPED BY : KISHORE KUMAR S
-
-REGISTER NO : 212221240023 
-```
+~~~
+Developed by: Thirugnanamoorthi G
+Reg no: 212221230117
+~~~
+~~~
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -93,7 +94,7 @@ public class Proj03: MonoBehaviour
 
     }
 }
-```
+~~~
 
 ## Output:
 ![](1.png)
